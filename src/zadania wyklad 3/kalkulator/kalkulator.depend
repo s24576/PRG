@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1636017668 source:c:\users\junio\desktop\zadania do mareckiego\kalkulator\main.cpp
+	<iostream>
+	"klak.h"
+
+1636017840 source:c:\users\junio\desktop\zadania do mareckiego\kalkulator\kalk.cpp
+	<iostream>
+	"klak.h"
+
+1636017840 c:\users\junio\desktop\zadania do mareckiego\kalkulator\klak.h
+	<iostream>
+	<cmath>
+
+1636017840 source:c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\kalkulator\kalk.cpp
+	<iostream>
+	"klak.h"
+
+1636017840 c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\kalkulator\klak.h
+	<iostream>
+	<cmath>
+
+1636315139 source:c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\kalkulator\main.cpp
+	<iostream>
+	"klak.h"
+

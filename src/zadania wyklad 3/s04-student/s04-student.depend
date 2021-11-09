@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635181754 source:c:\users\junio\desktop\zadania do mareckiego\s04-student\main.cpp
+	<iostream>
+	"student.h"
+
+1635181120 c:\users\junio\desktop\zadania do mareckiego\s04-student\student.h
+	<iostream>
+	<string>
+
+1635185252 source:c:\users\junio\desktop\zadania do mareckiego\student\student.cpp
+	<iostream>
+	"student.h"
+
+1635184720 c:\users\junio\desktop\zadania do mareckiego\student\student.h
+	<iostream>
+	<string>
+

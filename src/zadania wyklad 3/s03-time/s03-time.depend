@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635195709 source:c:\users\junio\desktop\zadania do mareckiego\s03-time\main.cpp
+	<iostream>
+	"time.h"
+
+1636238346 c:\users\junio\desktop\zadania do mareckiego\s03-time\time.h
+	<iostream>
+
+1635195714 source:c:\users\junio\desktop\zadania do mareckiego\s03-time\time.cpp
+	<iostream>
+	"time.h"
+
+1636489063 source:c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\s03-time\time.cpp
+	<iostream>
+	"time.h"
+	<sstream>
+
+1636488647 c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\s03-time\time.h
+	<iostream>
+
+1636488831 source:c:\users\junio\desktop\zadania do mareckiego\zadania wyklad 3\s03-time\main.cpp
+	<iostream>
+	"time.h"
+
