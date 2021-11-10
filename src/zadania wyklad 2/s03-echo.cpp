@@ -8,8 +8,9 @@ if ( argc == 1 )
     std::cout<<"Blad danych"<<"\n";
     return 1;
 }
+std::cout<<argc;
 auto const polecenie = std::string{argv[1]};
-if( argc > 2 )
+if( argc > 3 )
 {
     //warunek polecenia
     if( polecenie[0] == '-' )
@@ -27,7 +28,7 @@ if( argc > 2 )
 //polecenie R
         if( polecenie[1] == 'r' )
         {
-            if(argc > 3)
+            if(argc > 4)
             {
                 auto const polecenie2 = std::string{argv[2]};
                 //drugie polecenie
@@ -35,15 +36,15 @@ if( argc > 2 )
                 {
                     if( polecenie2[1] == 'l' )
                     {
-                        for(int i=argc; i>2; i--)
+                        for(int i=argc-1; i>2; i--)
                         {
                             auto const wyraz = std::string{argv[i]};
-                            std::cout << wyraz << "/n";
+                            std::cout << wyraz << "\n";
                         }
                     }
-                    if( polecenie2[1] == 'n' )
+                    else if( polecenie2[1] == 'n' )
                     {
-                        for(int i=argc; i>2; i--)
+                        for(int i=argc-1; i>2; i--)
                         {
                              auto const wyraz = std::string{argv[i]};
                              std::cout<< wyraz << "  ";
@@ -52,7 +53,7 @@ if( argc > 2 )
                 }
                 else
                 {
-                    for(int i=argc; i>0; i--)
+                    for(int i=argc-1; i>1; i--)
                     {
                         auto const wyraz = std::string{argv[i]};
                         std::cout<< wyraz << "  ";
@@ -61,7 +62,8 @@ if( argc > 2 )
             }
             else
             {
-                for(int i=argc; i>1; i--)
+		int a=argc-1;
+                for(int i=a; i>1; i--)
                 {
                     auto const wyraz = std::string{argv[i]};
                     std::cout<< wyraz << "  ";
