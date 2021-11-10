@@ -525,7 +525,7 @@ void Time::czas_do_polnocy()
         }
         b++;
     }
-    if(minuta!=0)
+    if(b!=0)
     {
         while(b!=0)
         {
