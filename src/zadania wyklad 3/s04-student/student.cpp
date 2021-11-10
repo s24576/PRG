@@ -3,7 +3,7 @@
 
 using namespace std;
 
-Student:Student(string i,string n,string n_i,int s,float s_o)
+Student::Student(string i,string n,string n_i,int s,float s_o)
 {
   imie=i;
   nazwisko=n;
@@ -15,7 +15,7 @@ Student::~Student()
 {
     cout<<"koniec"<endl;
 }
-void Student::wczytaj_studenta()
+void Student::dodaj_studenta()
 {
 cout<<"podaj imie studenta"<<endl;
 cin>>imie;
