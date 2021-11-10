@@ -22,12 +22,12 @@ int main()
     if(test.porownanie(test)==1)
     cout<<"Podana godzina jest mniejsza"<<endl;
     else
-    cout<<"Podana godzina jest wieksza"<<endl;
+    cout<<"Podana godzina nie jest mniejsza"<<endl;
 
     if(test.porownanie2(test)==1)
     cout<<"Podana godzina jest wieksza"<<endl;
     else
-    cout<<"Podana godzina jest mniejsza"<<endl;
+    cout<<"Podana godzina nie jest wieksza"<<endl;
 
     test.dodawanie();
     cout<<test.pokaz_czas()<<endl;
