@@ -39,6 +39,7 @@ void Samochod::wyswietl_oferte()
     std::cout<<"marka samochodu: "<<nazwa<<"\n";
     std::cout<<"model samochodu: "<<model<<"\n";
     std::cout<<"rok produkcji: "<<rok_p<<"\n";
+    std::cout<<"przebieg: "<<przebieg<<"\n";
     std::cout<<"cena proponowana: "<<cena_p<<"\n";
     std::cout<<"cena koncowa: "<<cena_k<<"\n";
 }
