@@ -10,7 +10,7 @@ if(argc>11)
 int a=argc-1;
 int zamiana;
 int b=a;
-int i=0;
+//int i=0;
 int T[10]={};
 int Twl[10]={};
 int temp;
@@ -24,18 +24,18 @@ zamiana=atoi(argv[a]);
 ++T[zamiana];
 --a;
 }
-
+srand(time(NULL));
 //losowanie
 while(licznik<b)
 {
     licznik=0;
-    srand(time(NULL));
-    temp=rand()%10+1;
+    temp=rand()%9+1;
     ++Twl[temp];
     for(int b=0;b<10;++b)
     {
         if(Twl[b]>0)
-            licznik++;
+	licznik++;
+
     }
 }
 
@@ -44,12 +44,12 @@ for(int w=0;w<10;++w)
 {
         if(Twl[w]>0)
         {
-            std::cout<<w+1<<" ";
+            std::cout<<w<<" ";
             if(T[w]>0)
                 ++wynik;
         }
 }
 std::cout<<"\n";
-std::cout<<"trafiles "<<wynik<<" z "<<b<<"\n";
+std::cout<<"trafiles "<< wynik<<" z "<<b<<"\n";
 return 0;
 }
