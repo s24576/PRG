@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1638367821 source:c:\users\junio\desktop\src\zadania dodatkowe\samochod\samochod\auto.cpp
+	<iostream>
+	<string>
+	"auto.h"
+
+1638367893 c:\users\junio\desktop\src\zadania dodatkowe\samochod\samochod\auto.h
+	<iostream>
+	<string>
+
+1638367985 source:c:\users\junio\desktop\src\zadania dodatkowe\samochod\samochod\main.cpp
+	<iostream>
+	"auto.h"
+
+1638367821 source:c:\users\junio\desktop\src\zadania dodatkowe\samochod\auto.cpp
+	<iostream>
+	<string>
+	"auto.h"
+
+1638367893 c:\users\junio\desktop\src\zadania dodatkowe\samochod\auto.h
+	<iostream>
+	<string>
+
+1638367985 source:c:\users\junio\desktop\src\zadania dodatkowe\samochod\main.cpp
+	<iostream>
+	"auto.h"
+
