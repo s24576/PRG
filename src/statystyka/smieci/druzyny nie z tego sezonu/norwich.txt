@@ -1,0 +1,25 @@
+Tim Krul
+Aaron Max
+Grant Hanley
+Ben Gibson
+Christoph Zimmermann
+Olivier Skipp
+Przemyslaw Placheta
+Buendia Emiliano
+Todd Cantwell
+Teemu Pukki
+Jordan Hugill
+void Statystyka::wczytaj_nor()
+{
+    fstream nor;
+    string i_z,n_z;
+    nor.open("norwich.txt",ios::in);
+    for(int norwich=0;norwich<11;norwich++)
+    {
+        nor>>i_z>>n_z;
+        cout<<norwich+1<<". "<<i_z<<"  "<<n_z<<endl;
+    }
+    nor.close();
+    cin>>zawodnik;
+    cout<<zawodnik;
+}

@@ -1,0 +1,646 @@
+Mecze
+Rozegrane łącznie	36
+Od 1. minuty	36
+Minut na mecz	90
+Drużyna tygodnia	1
+Interwencje bramkarza
+Wpuszczone bramki na mecz	0.8
+Obronione karne	1/8
+Obrony na mecz	1.8 (70%)
+Udane wybiegi na mecz	0.4 (88%)
+Wpuszczone bramki	28
+Wpuszczone z pola karnego	24
+Wpuszczone zza pola karnego	4
+Interwencje	66
+Obronione z pola karnego	37
+Obronione zza pola karnego	29
+Obronione strzały	0
+Parady bramkarskie	12
+Pokaż mniej	
+Atak
+Bramki	0
+Częstotliwość trafień	0 min
+Bramek na mecz	0.0
+Strzałów na mecz	0.0
+Strzały celne na mecz	0.0
+Niewykorzystane okazje	0
+Skuteczność strzałów	0%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	0
+Bramki spoza pola karnego	0
+Strzelone głową	0
+Strzelone lewą nogą	0
+Strzelone prawą nogą	0
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	1
+Kontakty z piłką	34.4
+Stworzone okazje	1
+Kluczowe podania	0.0
+Podania celne na mecz	21.6 (81%)
+Skuteczność na własnej połowie	20.1 (94%)
+Skuteczność na połowie przeciwnika	1.5 (29%)
+Skuteczność długich piłek	4.4 (48%)
+Celność podciętych podań	2.2 (58%)
+Celne dośrodkowania	0.0 (0%)
+Obrona
+Czyste konto	19
+Przechwyty na mecz	0.0
+Wślizgi na mecz	0.1
+Odzyskane posiadanie	0.0
+Przedryblowania na mecz	0.0
+Interwencje na mecz	0.5
+Błąd skutkujący golem	3
+Błąd skutkujący golem	1
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	0.0 (0%)
+Łączna ilość wygranych pojedynków	0.4 (81%)
+Wygrane pojedynki	0.2 (75%)
+Wygrane pojedynki powietrzne	0.2 (88%)
+Utracone posiadanie	5.1
+Faule	0.0
+Sfaulowany	0.1
+Spalone	0.0
+Kartki
+Żółte kartki	3
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	32
+Od 1. minuty	32
+Minut na mecz	89
+Drużyna tygodnia	0
+Atak
+Bramki	1
+Częstotliwość trafień	2845 min
+Bramek na mecz	0.0
+Strzałów na mecz	0.4
+Strzały celne na mecz	0.2
+Niewykorzystane okazje	2
+Skuteczność strzałów	7%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	1/14
+Bramki spoza pola karnego	0
+Strzelone głową	1
+Strzelone lewą nogą	0
+Strzelone prawą nogą	0
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	0
+Kontakty z piłką	93.4
+Stworzone okazje	0
+Kluczowe podania	0.1
+Podania celne na mecz	79.0 (93%)
+Skuteczność na własnej połowie	47.2 (95%)
+Skuteczność na połowie przeciwnika	31.8 (90%)
+Skuteczność długich piłek	3.4 (60%)
+Celność podciętych podań	2.7 (59%)
+Celne dośrodkowania	0.0 (50%)
+Obrona
+Czyste konto	15
+Przechwyty na mecz	1.1
+Wślizgi na mecz	0.8
+Odzyskane posiadanie	0.1
+Przedryblowania na mecz	0.4
+Interwencje na mecz	2.8
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	2
+Inne
+Udane dryblingi	0.2 (75%)
+Łączna ilość wygranych pojedynków	3.5 (59%)
+Wygrane pojedynki	1.5 (56%)
+Wygrane pojedynki powietrzne	1.9 (61%)
+Utracone posiadanie	6.5
+Faule	0.7
+Sfaulowany	0.6
+Spalone	0.0
+Kartki
+Żółte kartki	4
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	24
+Od 1. minuty	22
+Minut na mecz	81
+Drużyna tygodnia	0
+Atak
+Bramki	1
+Częstotliwość trafień	1946 min
+Bramek na mecz	0.0
+Strzałów na mecz	0.4
+Strzały celne na mecz	0.1
+Niewykorzystane okazje	0
+Skuteczność strzałów	10%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	0
+Bramki spoza pola karnego	1/10
+Strzelone głową	0
+Strzelone lewą nogą	0
+Strzelone prawą nogą	1
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	1
+Kontakty z piłką	90.1
+Stworzone okazje	2
+Kluczowe podania	0.3
+Podania celne na mecz	65.1 (90%)
+Skuteczność na własnej połowie	28.9 (94%)
+Skuteczność na połowie przeciwnika	36.3 (84%)
+Skuteczność długich piłek	3.7 (66%)
+Celność podciętych podań	2.3 (58%)
+Celne dośrodkowania	0.1 (5%)
+Obrona
+Czyste konto	9
+Przechwyty na mecz	0.6
+Wślizgi na mecz	1.2
+Odzyskane posiadanie	0.1
+Przedryblowania na mecz	0.3
+Interwencje na mecz	0.9
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	3
+Inne
+Udane dryblingi	1.0 (59%)
+Łączna ilość wygranych pojedynków	3.8 (53%)
+Wygrane pojedynki	2.7 (49%)
+Wygrane pojedynki powietrzne	1.1 (66%)
+Utracone posiadanie	12.0
+Faule	1.0
+Sfaulowany	0.5
+Spalone	0.0
+Kartki
+Żółte kartki	1
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	28
+Od 1. minuty	27
+Minut na mecz	82
+Drużyna tygodnia	4
+Atak
+Bramki	2
+Częstotliwość trafień	1151 min
+Bramek na mecz	0.1
+Strzałów na mecz	1.3
+Strzały celne na mecz	0.4
+Niewykorzystane okazje	1
+Skuteczność strzałów	6%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	2/15
+Bramki spoza pola karnego	0/20
+Strzelone głową	0
+Strzelone lewą nogą	1
+Strzelone prawą nogą	1
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	3
+Kontakty z piłką	90.8
+Stworzone okazje	8
+Kluczowe podania	1.6
+Podania celne na mecz	57.7 (87%)
+Skuteczność na własnej połowie	23.4 (91%)
+Skuteczność na połowie przeciwnika	34.6 (81%)
+Skuteczność długich piłek	2.4 (58%)
+Celność podciętych podań	3.8 (66%)
+Celne dośrodkowania	0.4 (15%)
+Obrona
+Czyste konto	13
+Przechwyty na mecz	1.5
+Wślizgi na mecz	2.4
+Odzyskane posiadanie	0.6
+Przedryblowania na mecz	1.4
+Interwencje na mecz	1.0
+Błąd skutkujący golem	2
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	1.7 (58%)
+Łączna ilość wygranych pojedynków	5.8 (51%)
+Wygrane pojedynki	4.8 (51%)
+Wygrane pojedynki powietrzne	1.1 (50%)
+Utracone posiadanie	14.7
+Faule	1.3
+Sfaulowany	0.6
+Spalone	0.1
+Kartki
+Żółte kartki	5
+2 żółte - czerwona	0
+Czerwone kartki	1
+Mecze
+Rozegrane łącznie	22
+Od 1. minuty	22
+Minut na mecz	88
+Drużyna tygodnia	3
+Atak
+Bramki	4
+Częstotliwość trafień	484 min
+Bramek na mecz	0.2
+Strzałów na mecz	0.7
+Strzały celne na mecz	0.2
+Niewykorzystane okazje	2
+Skuteczność strzałów	27%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	4/11
+Bramki spoza pola karnego	0/4
+Strzelone głową	1
+Strzelone lewą nogą	1
+Strzelone prawą nogą	2
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	0
+Kontakty z piłką	86.9
+Stworzone okazje	0
+Kluczowe podania	0.1
+Podania celne na mecz	73.2 (93%)
+Skuteczność na własnej połowie	43.7 (94%)
+Skuteczność na połowie przeciwnika	29.5 (91%)
+Skuteczność długich piłek	2.8 (59%)
+Celność podciętych podań	1.7 (60%)
+Celne dośrodkowania	0.0 (0%)
+Obrona
+Czyste konto	14
+Przechwyty na mecz	0.8
+Wślizgi na mecz	1.0
+Odzyskane posiadanie	0.1
+Przedryblowania na mecz	0.2
+Interwencje na mecz	2.5
+Błąd skutkujący golem	0
+Błąd skutkujący golem	1
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	0.5 (91%)
+Łączna ilość wygranych pojedynków	3.5 (70%)
+Wygrane pojedynki	1.8 (75%)
+Wygrane pojedynki powietrzne	1.7 (64%)
+Utracone posiadanie	5.7
+Faule	0.3
+Sfaulowany	0.4
+Spalone	0.0
+Kartki
+Żółte kartki	0
+2 żółte - czerwona	0
+Czerwone kartki	1
+Mecze
+Rozegrane łącznie	25
+Od 1. minuty	23
+Minut na mecz	80
+Drużyna tygodnia	8
+Atak
+Bramki	6
+Częstotliwość trafień	334 min
+Bramek na mecz	0.2
+Strzałów na mecz	3.2
+Strzały celne na mecz	1.0
+Niewykorzystane okazje	8
+Skuteczność strzałów	8%
+Punkty z karnych	2/3
+Skuteczność rzutów karnych	67%
+Bramki z RW	0/10
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	5/38
+Bramki spoza pola karnego	1/42
+Strzelone głową	0
+Strzelone lewą nogą	1
+Strzelone prawą nogą	5
+Wykorzystane karne	2
+Pokaż mniej	
+Podania
+Asysty	12
+Kontakty z piłką	72.6
+Stworzone okazje	19
+Kluczowe podania	3.2
+Podania celne na mecz	41.3 (82%)
+Skuteczność na własnej połowie	9.8 (91%)
+Skuteczność na połowie przeciwnika	33.1 (73%)
+Skuteczność długich piłek	2.6 (73%)
+Celność podciętych podań	1.9 (57%)
+Celne dośrodkowania	1.6 (27%)
+Obrona
+Przechwyty na mecz	0.4
+Wślizgi na mecz	1.4
+Odzyskane posiadanie	1.2
+Przedryblowania na mecz	1.4
+Interwencje na mecz	0.3
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	1.9 (72%)
+Łączna ilość wygranych pojedynków	4.7 (49%)
+Wygrane pojedynki	4.5 (50%)
+Wygrane pojedynki powietrzne	0.2 (29%)
+Utracone posiadanie	18.1
+Faule	1.1
+Sfaulowany	1.2
+Spalone	0.0
+Kartki
+Żółte kartki	1
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	28
+Od 1. minuty	17
+Minut na mecz	58
+Drużyna tygodnia	4
+Atak
+Bramki	9
+Częstotliwość trafień	179 min
+Bramek na mecz	0.3
+Strzałów na mecz	1.6
+Strzały celne na mecz	0.7
+Niewykorzystane okazje	4
+Skuteczność strzałów	20%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	9/38
+Bramki spoza pola karnego	0/7
+Strzelone głową	0
+Strzelone lewą nogą	5
+Strzelone prawą nogą	4
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	5
+Kontakty z piłką	41.0
+Stworzone okazje	5
+Kluczowe podania	1.3
+Podania celne na mecz	24.0 (88%)
+Skuteczność na własnej połowie	5.4 (89%)
+Skuteczność na połowie przeciwnika	19.1 (80%)
+Skuteczność długich piłek	0.3 (69%)
+Celność podciętych podań	0.7 (77%)
+Celne dośrodkowania	0.5 (18%)
+Obrona
+Przechwyty na mecz	0.4
+Wślizgi na mecz	0.8
+Odzyskane posiadanie	0.4
+Przedryblowania na mecz	0.5
+Interwencje na mecz	0.4
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	1.4 (57%)
+Łączna ilość wygranych pojedynków	3.9 (53%)
+Wygrane pojedynki	3.4 (58%)
+Wygrane pojedynki powietrzne	0.6 (37%)
+Utracone posiadanie	9.1
+Faule	0.4
+Sfaulowany	1.2
+Spalone	0.1
+Kartki
+Żółte kartki	0
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	27
+Od 1. minuty	23
+Minut na mecz	72
+Drużyna tygodnia	4
+Atak
+Bramki	9
+Częstotliwość trafień	217 min
+Bramek na mecz	0.3
+Strzałów na mecz	2.1
+Strzały celne na mecz	0.8
+Niewykorzystane okazje	5
+Skuteczność strzałów	16%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0/3
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	7/39
+Bramki spoza pola karnego	2/19
+Strzelone głową	1
+Strzelone lewą nogą	7
+Strzelone prawą nogą	1
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	6
+Kontakty z piłką	52.7
+Stworzone okazje	8
+Kluczowe podania	1.7
+Podania celne na mecz	32.9 (88%)
+Skuteczność na własnej połowie	7.7 (90%)
+Skuteczność na połowie przeciwnika	25.9 (82%)
+Skuteczność długich piłek	0.9 (72%)
+Celność podciętych podań	1.1 (63%)
+Celne dośrodkowania	0.7 (22%)
+Obrona
+Przechwyty na mecz	0.3
+Wślizgi na mecz	0.7
+Odzyskane posiadanie	0.8
+Przedryblowania na mecz	0.9
+Interwencje na mecz	0.1
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	1.7 (56%)
+Łączna ilość wygranych pojedynków	4.1 (49%)
+Wygrane pojedynki	3.5 (49%)
+Wygrane pojedynki powietrzne	0.6 (52%)
+Utracone posiadanie	11.0
+Faule	0.5
+Sfaulowany	1.1
+Spalone	0.3
+Kartki
+Żółte kartki	0
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	26
+Od 1. minuty	24
+Minut na mecz	80
+Drużyna tygodnia	1
+Atak
+Bramki	2
+Częstotliwość trafień	1036 min
+Bramek na mecz	0.1
+Strzałów na mecz	1.1
+Strzały celne na mecz	0.5
+Niewykorzystane okazje	3
+Skuteczność strzałów	7%
+Punkty z karnych	0
+Skuteczność rzutów karnych	0%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	0/20
+Bramki spoza pola karnego	2/8
+Strzelone głową	0
+Strzelone lewą nogą	2
+Strzelone prawą nogą	0
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	6
+Kontakty z piłką	65.8
+Stworzone okazje	8
+Kluczowe podania	1.0
+Podania celne na mecz	48.4 (92%)
+Skuteczność na własnej połowie	14.7 (93%)
+Skuteczność na połowie przeciwnika	33.9 (89%)
+Skuteczność długich piłek	1.9 (78%)
+Celność podciętych podań	1.8 (72%)
+Celne dośrodkowania	0.1 (9%)
+Obrona
+Przechwyty na mecz	0.7
+Wślizgi na mecz	1.0
+Odzyskane posiadanie	0.6
+Przedryblowania na mecz	1.6
+Interwencje na mecz	0.2
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	1.6 (63%)
+Łączna ilość wygranych pojedynków	3.8 (42%)
+Wygrane pojedynki	3.3 (45%)
+Wygrane pojedynki powietrzne	0.5 (30%)
+Utracone posiadanie	8.8
+Faule	0.7
+Sfaulowany	0.7
+Spalone	0.1
+Kartki
+Żółte kartki	5
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	12
+Od 1. minuty	7
+Minut na mecz	47
+Drużyna tygodnia	1
+Atak
+Bramki	4
+Częstotliwość trafień	140 min
+Bramek na mecz	0.3
+Strzałów na mecz	1.6
+Strzały celne na mecz	1.0
+Niewykorzystane okazje	2
+Skuteczność strzałów	21%
+Punkty z karnych	1/2
+Skuteczność rzutów karnych	50%
+Bramki z RW	0
+Skuteczność rzutów wolnych	0%
+Bramki z pola karnego	4/18
+Bramki spoza pola karnego	0/1
+Strzelone głową	1
+Strzelone lewą nogą	0
+Strzelone prawą nogą	3
+Wykorzystane karne	0
+Pokaż mniej	
+Podania
+Asysty	1
+Kontakty z piłką	21.8
+Stworzone okazje	3
+Kluczowe podania	0.6
+Podania celne na mecz	11.5 (81%)
+Skuteczność na własnej połowie	3.3 (91%)
+Skuteczność na połowie przeciwnika	8.3 (78%)
+Skuteczność długich piłek	0.2 (67%)
+Celność podciętych podań	0.0 (0%)
+Celne dośrodkowania	0.1 (100%)
+Obrona
+Przechwyty na mecz	0.2
+Wślizgi na mecz	0.3
+Odzyskane posiadanie	0.4
+Przedryblowania na mecz	0.8
+Interwencje na mecz	0.0
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	0.7 (62%)
+Łączna ilość wygranych pojedynków	1.8 (41%)
+Wygrane pojedynki	1.6 (42%)
+Wygrane pojedynki powietrzne	0.2 (33%)
+Utracone posiadanie	5.5
+Faule	0.2
+Sfaulowany	0.6
+Spalone	0.1
+Kartki
+Żółte kartki	0
+2 żółte - czerwona	0
+Czerwone kartki	0
+Mecze
+Rozegrane łącznie	31
+Od 1. minuty	28
+Minut na mecz	82
+Drużyna tygodnia	2
+Atak
+Bramki	10
+Częstotliwość trafień	254 min
+Bramek na mecz	0.3
+Strzałów na mecz	2.3
+Strzały celne na mecz	0.9
+Niewykorzystane okazje	13
+Skuteczność strzałów	14%
+Punkty z karnych	0/1
+Skuteczność rzutów karnych	0%
+Bramki z RW	1/3
+Skuteczność rzutów wolnych	33%
+Bramki z pola karnego	9/58
+Bramki spoza pola karnego	1/12
+Strzelone głową	2
+Strzelone lewą nogą	2
+Strzelone prawą nogą	6
+Wykorzystane karne	2
+Pokaż mniej	
+Podania
+Asysty	7
+Kontakty z piłką	52.9
+Stworzone okazje	9
+Kluczowe podania	1.3
+Podania celne na mecz	30.9 (86%)
+Skuteczność na własnej połowie	6.1 (90%)
+Skuteczność na połowie przeciwnika	24.8 (84%)
+Skuteczność długich piłek	0.3 (59%)
+Celność podciętych podań	0.4 (45%)
+Celne dośrodkowania	0.0 (5%)
+Obrona
+Przechwyty na mecz	0.5
+Wślizgi na mecz	0.7
+Odzyskane posiadanie	0.7
+Przedryblowania na mecz	0.2
+Interwencje na mecz	0.1
+Błąd skutkujący golem	0
+Błąd skutkujący golem	0
+Podyktowane rzuty karne	0
+Inne
+Udane dryblingi	2.1 (54%)
+Łączna ilość wygranych pojedynków	4.4 (41%)
+Wygrane pojedynki	4.1 (42%)
+Wygrane pojedynki powietrzne	0.3 (30%)
+Utracone posiadanie	12.5
+Faule	1.2
+Sfaulowany	1.3
+Spalone	0.3
+Kartki
+Żółte kartki	4
+2 żółte - czerwona	0
+Czerwone kartki	0
