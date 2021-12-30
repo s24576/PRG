@@ -1,8 +1,0 @@
-    /*if(liga <= 0 && liga > 4)
-    {
-        while(liga <= 0 && liga > 4)
-        {
-            cout<<"podaj poprawna wartosc"<<endl;
-            cin>>liga;
-        }
-    }*/
