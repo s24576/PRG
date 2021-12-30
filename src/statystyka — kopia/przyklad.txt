@@ -1,0 +1,76 @@
+Matches
+Total played	36
+Started	36
+Minutes per game	90
+Team of the week	1
+
+Goalkeeping
+Goals conceded per game	0.8
+Penalties saved	1/8
+Saves per game	1.8 (70%)
+Succ. runs out per game	0.4 (88%)
+Goals conceded	28
+Conceded from inside box	24
+Conceded from outside box	4
+Saves made	66
+Saves from inside box	37
+Saves from outside box	29
+Saves caught	0
+Saves parried	12
+	
+Attacking
+Goals	0
+Scoring frequency	0 min
+Goals per game	0.0
+Shots per game	0.0
+Shots on target per game	0.0
+Big chances missed	0
+Goal conversion	0%
+Penalty goals	0
+Penalty conversion	0%
+Free kick goals	0
+Free kick conversion	0%
+Goals from inside the box	0
+Goals from outside the box	0
+Headed goals	0
+Left foot goals	0
+Right foot goals	0
+Penalty won	0
+	
+Passing
+Assists	1
+Touches	34.4
+Big chances created	1
+Key passes	0.0
+Accurate per game	21.6 (81%)
+Acc. own half	20.1 (94%)
+Acc. opposition half	1.5 (29%)
+Acc. long balls	4.4 (48%)
+Acc. chipped passes	2.2 (58%)
+Acc. crosses	0.0 (0%)
+
+Defending
+Clean sheets	19
+Interceptions per game	0.0
+Tackles per game	0.1
+Possession won	0.0
+Dribbled past per game	0.0
+Clearances per game	0.5
+Error led to shot	3
+Error led to goal	1
+Penalties committed	0
+
+Other
+Succ. dribbles	0.0 (0%)
+Total duels won	0.4 (81%)
+Ground duels won	0.2 (75%)
+Aerial duels won	0.2 (88%)
+Possession lost	5.1
+Fouls	0.0
+Was fouled	0.1
+Offsides	0.0
+
+Cards
+Yellow	3
+Yellow-Red	0
+Red cards	0
