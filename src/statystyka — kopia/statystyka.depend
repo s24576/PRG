@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1640822645 source:c:\users\junio\desktop\src\potencjalne projekty\statystyka\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"staty.h"
+
+1640822639 c:\users\junio\desktop\src\potencjalne projekty\statystyka\staty.h
+	<iostream>
+	<string>
+
+1640822536 source:c:\users\junio\desktop\src\potencjalne projekty\statystyka\staty.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"staty.h"
+
