@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1638980298 source:c:\users\junio\desktop\src\zadania dodatkowe\slownik\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"slownik.h"
+
+1638974043 c:\users\junio\desktop\src\zadania dodatkowe\slownik\slownik.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1638980298 source:c:\users\junio\desktop\src\zadania dodatkowe\slownik\slownik.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"slownik.h"
+
